@@ -1,0 +1,8 @@
+{
+    "env":{
+        "DB_USER":"pempem",
+        "DB_PASSWORD": "yemifirefox",
+        "DB_NAME": "places",
+        "JWT_KEY": "supersecret_dont_share"
+    }
+}
